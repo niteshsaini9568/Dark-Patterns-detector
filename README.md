@@ -1,2 +1,2 @@
 # Dark-Patterns-detector
-A chrome extension that will highlight the Dark UI elements in E-commerce platform.
+Illuminate the shadows in your online shopping experience! 💡🛒 Our Chrome extension shines a light on Dark UI elements across e-commerce platforms, making your browsing journey clearer and brighter. 🌟 
